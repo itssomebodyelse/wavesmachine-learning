@@ -2,8 +2,8 @@ import copernicusmarine as cm
 import xarray as xr
 import pandas as pd
 
-USERNAME = "km123456"
-PASSWORD = "hNdi450!@kpq3"
+USERNAME = ""
+PASSWORD = ""
 
 print("Підключаємось до сервера...")
 
